@@ -44,6 +44,6 @@ OpenAPI spec: [uforetrygd-api.yaml](https://navikt.github.io/pensjon-ekstern-api
 API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html)
 
 ### AFP Grunnlag Beholdning
-OpenAPI spec: [https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning-api.yaml](https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning-api.yaml)
+OpenAPI spec: [afp-grunnlag-beholdning-api.yaml](https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning-api.yaml)
 
 API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning.html](https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning.html)
