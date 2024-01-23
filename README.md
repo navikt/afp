@@ -27,3 +27,7 @@ Swagger: [https://spapi.nav.no/swagger](https://spapi.nav.no/swagger)
 
 ## Pensjon
 
+### AFP Privat
+OpenAPI spec: [apidocAfpPrivat.yaml](https://navikt.github.io/pensjon-ekstern-api/api/afpprivat/apidocAfpPrivat.yaml)
+
+API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/afpprivat/AfpPrivat.html](https://navikt.github.io/pensjon-ekstern-api/api/afpprivat/AfpPrivat.html)
