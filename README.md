@@ -6,6 +6,18 @@ OpenAPI spec: [openapi.yaml](https://aap-api.ekstern.dev.nav.no/swagger/openapi.
 
 Swagger: [https://aap-api.ekstern.dev.nav.no/swagger](https://aap-api.ekstern.dev.nav.no/swagger)
 
+Yttligere [dokumentasjon og kildekode](https://github.com/navikt/aap-api)
+
+##### Prod
+> Maskinporten scope: `nav:aap:afpprivat.read`
+> 
+> Host: `https://aap-api.nav.no`
+
+##### Dev
+> Maskinporten scope: `nav:aap:afpprivat.read`
+>
+> Host: `https://aap-api.ekstern.dev.nav.no`
+
 ## Sykepenger
 OpenAPI spec: [openapi.yaml](https://spapi.nav.no/swagger/openapi.yml) 
 
