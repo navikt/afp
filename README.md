@@ -23,6 +23,11 @@ OpenAPI spec: [openapi.yaml](https://spapi.nav.no/swagger/openapi.yml)
 
 Swagger: [https://spapi.nav.no/swagger](https://spapi.nav.no/swagger)
 
+## Pensjon
+OpenAPI spec: [fellesordningen.yaml](https://navikt.github.io/pensjon-ekstern-api/api/fellesordningen/fellesordningen.yaml)
+
+API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/fellesordningen/Fellesordningen.html](https://navikt.github.io/pensjon-ekstern-api/api/fellesordningen/Fellesordningen.html)
+
 # AFP - Tjenestepensjonsordninger
 
 ## Pensjon
