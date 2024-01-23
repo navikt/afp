@@ -29,6 +29,7 @@ OpenAPI spec: [fellesordningen.yaml](https://navikt.github.io/pensjon-ekstern-ap
 API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/fellesordningen/Fellesordningen.html](https://navikt.github.io/pensjon-ekstern-api/api/fellesordningen/Fellesordningen.html)
 
 # AFP - Tjenestepensjonsordninger
+Dokumentasjon av NAV sine APIer for tjenestepensjonsordningene relatert til offentlig AFP (avtalefestet pensjon).
 
 ## Pensjon
 
@@ -41,3 +42,8 @@ API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/afppri
 OpenAPI spec: [uforetrygd-api.yaml](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/uforetrygd-api.yaml)
 
 API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html)
+
+### AFP Grunnlag Beholdning
+OpenAPI spec: [https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning-api.yaml](https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning-api.yaml)
+
+API dok (Github Pages): [https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning.html](https://navikt.github.io/pensjon-ekstern-api/api/afpgrunnlagbeholdning/afp-grunnlag-beholdning.html)
